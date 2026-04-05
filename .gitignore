@@ -1,0 +1,4 @@
+news_data.json
+bookmarks.json
+__pycache__/
+*.pyc
